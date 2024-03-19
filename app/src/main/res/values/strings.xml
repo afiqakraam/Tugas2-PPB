@@ -1,0 +1,50 @@
+<resources>
+
+    <integer-array name="data_photo">
+        <item>@drawable/adele</item>
+        <item>@drawable/ariana</item>
+        <item>@drawable/beatles</item>
+        <item>@drawable/billie</item>
+        <item>@drawable/bruno</item>
+        <item>@drawable/harry</item>
+        <item>@drawable/justin</item>
+        <item>@drawable/roc</item>
+        <item>@drawable/sza</item>
+        <item>@drawable/taylor</item>
+    </integer-array>
+    <string name="grid">Grid</string>
+
+    <string name="list">List</string>
+
+    <string name="movies_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="app_name">MyRecyclerView</string>
+    <string name="profile">Profile</string>
+
+    <string-array name="data_description">
+        <item>Adele, born on May 5, 1988, in London, is a British singer-songwriter known for her powerful voice. She gained global fame with albums like "19" (2008) and "21" (2011), featuring hits like "Rolling in the Deep" and "Someone Like You." Her emotional lyrics and chart-topping success have solidified her as a prominent figure in the music industry</item>
+        <item>Ariana Grande, born on June 26, 1993, is an American singer, songwriter, and actress. Starting as an actress in her youth, Grande gained fame for her role in the TV series Victorious. Transitioning to music, she achieved massive success with hits like Problem and Thank U, Next.Known for her powerful vocals and four-octave range, Grande has become a pop icon. With numerous awards and record-breaking achievements, she continues to influence the music industry globally.</item>
+        <item>The Beatles were a legendary British rock band formed in Liverpool in 1960. Consisting of John Lennon, Paul McCartney, George Harrison, and Ringo Starr, they became one of the most influential bands in the history of popular music. With iconic hits like Hey Jude, Let It Be, and Twist and Shout, The Beatles achieved unprecedented success and revolutionized the music industry. Their innovative sound, songwriting prowess, and cultural impact continue to shape the landscape of music decades after their disbandment in 1970.</item>
+        <item>Billie Eilish, born on December 18, 2001, is an American singer-songwriter and pop icon. She gained global fame with her debut single Ocean Eyes in 2015 at the age of 14. Known for her unique style, whispery vocals, and introspective lyrics, Eilish became a phenomenon with her debut album When We All Fall Asleep, Where Do We Go? (2019), featuring hits like Bad Guy and Bury a Friend. Eilish has earned numerous awards, including multiple Grammy wins, and continues to influence the music industry with her innovative approach and authenticity.</item>
+        <item>Bruno Mars, born Peter Gene Hernandez on October 8, 1985, is an American singer, songwriter, and entertainer. Known for his versatile musical style that incorporates pop, RNB, funk, and soul, Mars rose to fame with hits like Just the Way You Are and Uptown Funk. His dynamic performances, smooth vocals, and energetic stage presence have made him a global pop icon. With multiple Grammy Awards and chart-topping successes, Bruno Mars continues to be a major force in the music industry.</item>
+        <item>Harry Styles, born on February 1, 1994, in England, is a British singer, songwriter, and actor. Initially rising to fame as a member of the boy band One Direction, Styles later embarked on a successful solo career. His self-titled debut album (2017) showcased his evolving musical style, blending pop, rock, and indie influences. Known for his distinctive voice and fashion-forward style, Harry Styles has become a cultural icon and continues to make waves in the music and fashion industries.</item>
+        <item>Justin Bieber, born on March 1, 1994, in Canada, is a pop sensation known for his early breakthrough with hits like Baby. Rising from YouTube fame, he has achieved global stardom with diverse musical styles. Despite personal challenges, Bieber made successful comebacks with albums like Purpose (2015) and Changes (2020). His philanthropy and social media influence contribute to his enduring status as a prominent figure in pop culture.</item>
+        <item>Rex Orange County, born Alexander O Connor, is an English singer, songwriter, and music producer. He is known for his versatile musical style that incorporates elements of pop, RNB, and indie. His successful debut, Apricot Princess, released in 2017, brought Rex Orange County into the international spotlight. His authentic sound and introspective lyrics have resonated with listeners worldwide.</item>
+        <item>SZA, born Solana Imani Rowe on November 8, 1989, is an American singer known for her distinctive voice and introspective lyrics. Her debut album, Ctrl (2017), featuring hits like Love Galore, received critical acclaim, establishing her as a prominent figure in contemporary RNB. SZA artistic versatility extends to acting, and her contributions have garnered Grammy nominations and a devoted fan base.</item>
+        <item>Taylor Swift is an American singer songwriter known for her chart-topping hits and genre spanning career. Born on December 13, 1989, in Pennsylvania, she rose to fame in the country music scene before transitioning to pop. With numerous awards, including 10 Grammys, Swift is celebrated for her catchy tunes and relatable lyrics. Beyond music, she is recognized for advocacy, acting roles, and entrepreneurial ventures, making her a prominent figure in the entertainment industry.</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Adele</item>
+        <item>Ariana</item>
+        <item>The Beatles</item>
+        <item>Billie Eilish</item>
+        <item>Bruno Mars</item>
+        <item>Harry Styles</item>
+        <item>Justin Bieber</item>
+        <item>Rex Orange County</item>
+        <item>SZA</item>
+        <item>Taylor Swift</item>
+    </string-array>
+</resources>
